@@ -1,0 +1,480 @@
+MTLA0001       MTLP0003       Physician           QUEM101119          book Appointment                   accessed       2019-10-11 17:12:28.194                                     
+-              -              -                   -                   Send DB                            Success        2019-10-11 17:12:28.191                                     
+MTLA0001       MTLP0003       Physician           QUEM101119          book Appointment                   Success        2019-10-11 17:12:37.593                                     
+MTLA0001       MTLP0004       Surgeon             MTLA101119          book Appointment                   accessed       2019-10-11 17:22:12.307                                     
+-              -              -                   -                   Send DB                            Success        2019-10-11 17:22:12.302                                     
+MTLA0001       MTLP0005       Surgeon             MTLM101119          book Appointment                   accessed       2019-10-11 17:23:19.784                                     
+MTLA0001       MTLP0004       Physician           MTLE101119          book Appointment                   accessed       2019-10-11 17:23:49.799                                     
+MTLA0001       MTLP0006       Physician           QUEM101119          book Appointment                   accessed       2019-10-11 17:24:14.251                                     
+MTLA0001       MTLP0006       Physician           QUEM101119          book Appointment                   Success        2019-10-11 17:24:20.77                                      
+-              -              -                   -                   Received DB                        Success        2019-10-11 17:24:20.772                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-11 17:24:32.75                                      
+MTLA0001       MTLP0005       Dental              QUEE101119          book Appointment                   accessed       2019-10-11 17:25:25.074                                     
+MTLA0001       MTLP0005       Dental              QUEE101119          book Appointment                   Success        2019-10-11 17:25:30.261                                     
+-              -              -                   -                   Send DB                            Success        2019-10-11 17:25:30.265                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-11 17:26:36.343                                     
+MTLA0001       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-11 17:34:29.27                                      
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-11 17:35:03.013                                     
+MTLA0001       MTLP0007       Surgeon             MTLA101119          swapAppointment                    accessed       2019-10-11 17:35:44.484                                     
+-              -              -                   -                   Received DB                        Success        2019-10-11 17:35:52.416                                     
+MTLA0001       MTLP0008       Dental              MTLM101119          swapAppointment                    accessed       2019-10-11 17:36:38.35                                      
+-              -              -                   -                   Send DB                            Success        2019-10-11 17:36:46.455                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-11 17:37:01.076                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-11 20:35:03.777                                     
+QUEA0001       QUEA0001       -                   -                   list Appointment Availability      Success        2019-10-11 20:35:03.782                                     
+-              -              -                   -                   Send DB                            Success        2019-10-11 20:35:31.123                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-11 20:35:31.125                                     
+-              MTLP0001       -                   -                   get Appointment Schedule           Success        2019-10-11 20:36:06.348                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-11 20:56:10.644                                     
+-              -              -                   -                   Send DB                            Success        2019-10-11 20:56:10.64                                      
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-11 20:56:42.073                                     
+QUEA0001       QUEA0001       -                   -                   list Appointment Availability      Success        2019-10-11 20:56:42.078                                     
+MTLA0001       MTLP0002       Surgeon             MTLM101119          book Appointment                   accessed       2019-10-11 20:57:38.288                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-11 20:57:55.666                                     
+MTLA0001       MTLP0002       Surgeon             MTLM101119          swapAppointment                    accessed       2019-10-11 20:59:04.995                                     
+MTLA0001       MTLP0002       Dental              MTLM101119          swapAppointment                    accessed       2019-10-11 21:00:49.014                                     
+-              -              -                   -                   Send DB                            Success        2019-10-11 21:00:57.664                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-11 21:01:11.435                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-11 21:08:29.638                                     
+-              -              -                   -                   Send DB                            Success        2019-10-11 21:08:29.633                                     
+-              MTLP0007       -                   -                   get Appointment Schedule           Success        2019-10-11 21:08:44.916                                     
+MTLA0001       MTLP0004       Surgeon             MTLA101119          swapAppointment                    accessed       2019-10-11 21:12:46.579                                     
+-              -              -                   -                   Send DB                            Success        2019-10-11 21:13:05.148                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-11 21:13:37.467                                     
+-              -              -                   -                   Send DB                            Success        2019-10-11 21:15:03.231                                     
+SHEA0001       SHEP0006       Surgeon             SHEE101119          swapAppointment                    accessed       2019-10-11 21:15:03.243                                     
+-              -              -                   -                   Received DB                        Success        2019-10-11 21:15:11.284                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-11 21:16:02.195                                     
+MTLA0001       MTLP0004       Surgeon             QUEE101119          book Appointment                   accessed       2019-10-12 14:41:25.822                                     
+-              -              -                   -                   Send DB                            Success        2019-10-12 14:41:25.816                                     
+MTLA0001       MTLP0004       Surgeon             QUEE101119          book Appointment                   Success        2019-10-12 14:41:29.87                                      
+-              -              -                   -                   Received DB                        Success        2019-10-12 14:41:29.872                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-12 14:41:36.512                                     
+MTLA0001       MTLP0005       Surgeon             MTLM101119          swapAppointment                    accessed       2019-10-12 14:42:21.193                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-12 14:42:32.629                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-14 17:18:26.84                                      
+-              -              -                   -                   Send DB                            Success        2019-10-14 17:18:26.834                                     
+MTLA0001       MTLP0004       Surgeon             MTLA101119          swapAppointment                    accessed       2019-10-14 17:19:08.029                                     
+-              -              -                   -                   Send DB                            Success        2019-10-14 17:19:12.059                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-14 17:19:53.559                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-14 18:52:37.55                                      
+-              -              -                   -                   Send DB                            Success        2019-10-14 18:52:37.547                                     
+-              MTLP0001       -                   -                   get Appointment Schedule           Success        2019-10-14 18:52:55.684                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-14 18:53:03.543                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-14 18:53:12.676                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-14 21:18:21.934                                     
+-              -              -                   -                   Send DB                            Success        2019-10-14 21:18:21.927                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-15 14:56:41.116                                     
+-              -              -                   -                   Send DB                            Success        2019-10-15 14:56:41.111                                     
+MTLA0001       MTLP0004       Physician           MTLA101119          swapAppointment                    accessed       2019-10-15 15:31:04.861                                     
+-              -              -                   -                   Send DB                            Success        2019-10-15 15:31:04.858                                     
+MTLA0001       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-15 15:51:07.911                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-15 15:51:22.271                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-15 15:52:33.773                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-15 15:53:15.373                                     
+QUEA0001       QUEA0001       -                   -                   list Appointment Availability      Success        2019-10-15 15:53:15.374                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-15 15:53:26.96                                      
+QUEA0001       QUEA0001       -                   -                   list Appointment Availability      Success        2019-10-15 15:53:26.964                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-15 15:58:24.699                                     
+-              -              -                   -                   Send DB                            Success        2019-10-15 15:58:24.696                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-15 16:01:18.666                                     
+-              -              -                   -                   Send DB                            Success        2019-10-15 16:01:18.662                                     
+QUEA0001       QUEA0001       -                   -                   add Appointment                    Failure        2019-10-15 16:09:42.787                                     
+MTLA0001       MTLP0011       Dental              MTLE101119          book Appointment                   accessed       2019-10-15 21:28:06.663                                     
+-              -              -                   -                   Send DB                            Success        2019-10-15 21:28:06.657                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-15 21:35:46.402                                     
+-              -              -                   -                   Send DB                            Success        2019-10-15 21:35:46.398                                     
+-              -              -                   -                   Send DB                            Success        2019-10-15 21:36:22.927                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-15 21:36:22.93                                      
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-15 21:36:53.444                                     
+QUEA0001       QUEA0001       -                   -                   list Appointment Availability      Success        2019-10-15 21:36:53.447                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-15 21:40:12.819                                     
+QUEA0001       QUEA0001       -                   -                   list Appointment Availability      Success        2019-10-15 21:40:12.822                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 10:27:15.913                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-17 10:27:15.928                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-17 10:27:42.528                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-17 10:28:48.24                                      
+QUEA0001       QUEA0001       -                   -                   list Appointment Availability      Success        2019-10-17 10:28:48.295                                     
+MTLP0001       MTLP0001       Surgeon             MTLA101119          swapAppointment                    accessed       2019-10-17 10:30:37.525                                     
+-              MTLP0001       -                   -                   get Appointment Schedule           Success        2019-10-17 10:30:55.204                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 11:19:23.88                                      
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-17 11:19:23.884                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 11:19:58.793                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-17 11:19:58.797                                     
+-              QUEP0009       -                   -                   get Appointment Schedule           Success        2019-10-17 11:20:38.95                                      
+QUEP0009       QUEP0009       -                   -                   get Appointment Schedule           Success        2019-10-17 11:20:38.998                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-17 11:21:43.177                                     
+QUEA0001       QUEA0001       -                   -                   list Appointment Availability      Success        2019-10-17 11:21:43.208                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 13:02:29.268                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-17 13:02:29.286                                     
+QUEA0001       MTLP0004       Dental              MTLA101119          book Appointment                   accessed       2019-10-17 13:59:55.449                                     
+QUEA0001       MTLP0004       Dental              MTLA101119          book Appointment                   Success        2019-10-17 13:59:55.458                                     
+QUEA0001       MTLP0004       Dental              MTLA101119          book Appointment                   Failed         2019-10-17 13:59:55.502                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-17 14:01:57.585                                     
+QUEA0001       QUEA0001       -                   -                   list Appointment Availability      Success        2019-10-17 14:01:57.622                                     
+QUEA0001       MTLP0005       Dental              QUEA101119          book Appointment                   accessed       2019-10-17 14:03:33.902                                     
+QUEA0001       MTLP0005       Dental              QUEA101119          book Appointment                   Success        2019-10-17 14:03:33.903                                     
+QUEA0001       MTLP0005       Dental              QUEA101119          book Appointment                   Success        2019-10-17 14:03:33.907                                     
+QUEA0001       MTLP0005       Dental              QUEA101119          book Appointment                   Failed         2019-10-17 14:03:33.964                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-17 14:03:52.598                                     
+QUEA0001       QUEA0001       -                   -                   list Appointment Availability      Success        2019-10-17 14:03:52.629                                     
+-              MTLP0004       -                   -                   get Appointment Schedule           Success        2019-10-17 14:07:49.607                                     
+QUEA0001       MTLP0004       -                   -                   get Appointment Schedule           Success        2019-10-17 14:07:49.673                                     
+MTLA0002       MTLA0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-17 15:40:17.314                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 15:40:17.303                                     
+MTLA0001       MTLP0004       Surgeon             MTLA101119          swapAppointment                    accessed       2019-10-17 15:40:21.386                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 15:42:52.467                                     
+MTLA0001       MTLP0004       Surgeon             MTLA101119          swapAppointment                    accessed       2019-10-17 15:42:52.477                                     
+MTLA0001       MTLP0004       Surgeon             MTLA101119          swapAppointment                    accessed       2019-10-17 15:44:47.065                                     
+-              MTLP0004       -                   -                   get Appointment Schedule           Success        2019-10-17 15:46:30.348                                     
+MTLP0005       MTLP0005       Surgeon             MTLM101119          swapAppointment                    accessed       2019-10-17 16:05:37.168                                     
+-              -              -                   -                   Received DB                        Success        2019-10-17 16:05:41.199                                     
+QUEP0005       QUEP0005       Surgeon             QUEM101119          swapAppointment                    accessed       2019-10-17 16:05:41.199                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 16:05:45.231                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-17 16:06:19.78                                      
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-17 16:07:46.913                                     
+MTLA0001       MTLP0020       Physician           MTLM121119          book Appointment                   accessed       2019-10-17 16:44:22.005                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 16:44:21.999                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 16:45:22.187                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-17 16:45:22.192                                     
+MTLA0001       MTLP0004       Surgeon             MTLA101119          cancelAppointment                  accessed       2019-10-17 16:47:26.142                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-17 16:47:56.803                                     
+MTLA0001       MTLP0021       Physician           MTLA101119          book Appointment                   accessed       2019-10-17 16:49:05.017                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-17 16:49:40.683                                     
+MTLA0001       MTLP0005       Surgeon             MTLM101119          cancelAppointment                  accessed       2019-10-17 16:50:43.707                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 16:57:05.962                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-17 16:57:05.967                                     
+SHEA0001       MTLP0020       Physician           MTLA121119          book Appointment                   accessed       2019-10-17 18:43:22.236                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 18:43:22.234                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-17 18:51:29.544                                     
+QUEA0001       QUEA0001       -                   -                   list Appointment Availability      Success        2019-10-17 18:51:29.576                                     
+QUEP0001       QUEP0001       Physician           SHEE080619          book Appointment                   accessed       2019-10-17 18:54:32.737                                     
+MTLA0001       MTLP0020       Physician           MTLM101119          book Appointment                   accessed       2019-10-17 19:28:20.326                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 19:28:20.32                                      
+MTLA0001       MTLP0021       Physician           MTLA121119          book Appointment                   accessed       2019-10-17 19:29:15.083                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 19:41:32.487                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 19:41:51.878                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 19:42:42.103                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 19:44:44.267                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-17 19:44:44.273                                     
+MTLA0001       MTLP0020       Physician           MTLA101119          book Appointment                   accessed       2019-10-17 19:45:47.632                                     
+MTLA0001       MTLP0022       Dental              MTLM101119          book Appointment                   accessed       2019-10-17 19:48:15.151                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-17 19:48:36.879                                     
+MTLA0001       MTLP0030       Physician           MTLA121119          book Appointment                   accessed       2019-10-17 19:49:20.393                                     
+MTLA0001       MTLP0020       Physician           MTLM101119          book Appointment                   accessed       2019-10-17 20:58:28.564                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 20:58:28.557                                     
+MTLA0001       MTLP0021       Physician           MTLE101119          book Appointment                   accessed       2019-10-17 21:01:45.825                                     
+MTLA0001       MTLP0023       Physician           MTLA121119          book Appointment                   accessed       2019-10-17 21:02:23.618                                     
+-              -              -                   -                   Send DB                            Success        2019-10-17 21:29:55.706                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-17 21:29:55.711                                     
+MTLA0001       MTLP0020       Surgeon             MTLA101119          book Appointment                   accessed       2019-10-17 21:30:42.833                                     
+-              -              -                   -                   Send DB                            Success        2019-10-18 16:36:47.606                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-18 16:36:47.613                                     
+MTLA0001       MTLP0020       Physician           MTLM101119          book Appointment                   accessed       2019-10-18 16:37:41.435                                     
+MTLA0001       MTLP0021       Surgeon             MTLM101119          book Appointment                   accessed       2019-10-18 16:38:03.23                                      
+MTLA0001       MTLP0022       Physician           MTLM121119          book Appointment                   accessed       2019-10-18 16:38:47.64                                      
+-              -              -                   -                   Send DB                            Success        2019-10-18 16:41:12.238                                     
+MTLA0001       MTLP0020       Surgeon             MTLA101119          book Appointment                   accessed       2019-10-18 16:41:12.245                                     
+MTLA0001       MTLP0020       Surgeon             MTLA101119          cancelAppointment                  accessed       2019-10-18 16:41:34.284                                     
+-              -              -                   -                   Send DB                            Success        2019-10-19 10:30:37.383                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-19 10:30:37.386                                     
+MTLA0001       MTLP0020       Physician           MTLM101119          book Appointment                   accessed       2019-10-19 10:31:26.041                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-19 10:31:47.021                                     
+MTLA0001       MTLP0021       Physician           MTLA121119          book Appointment                   accessed       2019-10-19 10:32:15.112                                     
+MTLA0001       MTLP0004       Surgeon             MTLA101119          swapAppointment                    accessed       2019-10-26 22:05:33.155                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 22:05:33.151                                     
+-              MTLP0004       -                   -                   get Appointment Schedule           Success        2019-10-26 22:05:51.296                                     
+QUEP0004       QUEP0004       Surgeon             QUEA101119          swapAppointment                    accessed       2019-10-26 22:09:08.122                                     
+-              -              -                   -                   Received DB                        Success        2019-10-26 22:09:12.135                                     
+QUEP0004       QUEP0004       Surgeon             QUEA101119          swapAppointment                    accessed       2019-10-26 22:09:12.136                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 22:09:12.14                                      
+-              -              -                   -                   Send DB                            Success        2019-10-26 22:12:48.56                                      
+MTLA0001       MTLP1111       Physician           MTLA101119          swapAppointment                    accessed       2019-10-26 22:12:48.564                                     
+MTLA0001       MTLP0001       Physician           QUEA101119          swapAppointment                    accessed       2019-10-26 22:13:59.202                                     
+MTLA0001       MTLP0004       Physician           QUEM101119          swapAppointment                    accessed       2019-10-26 22:14:52.099                                     
+MTLA0001       MTLP0004       Physician           QUEM101119          swapAppointment                    accessed       2019-10-26 22:15:30.478                                     
+MTLA0001       MTLP0001       Physician           MTLA101119          swapAppointment                    accessed       2019-10-26 22:16:18.937                                     
+MTLA0001       MTLP0004       Surgeon             MTLA101119          swapAppointment                    accessed       2019-10-26 22:17:05.922                                     
+-              -              -                   -                   Received DB                        Success        2019-10-26 22:17:09.932                                     
+-              MTLP0004       -                   -                   get Appointment Schedule           Success        2019-10-26 22:18:02.634                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 22:21:19.0                                       
+SHEA0001       SHEP0006       Surgeon             SHEE101119          swapAppointment                    accessed       2019-10-26 22:21:19.003                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 22:25:14.322                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-26 22:25:14.326                                     
+-              -              -                   -                   Received DB                        Success        2019-10-26 22:25:18.366                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-26 22:25:18.369                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-26 22:25:31.638                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 22:33:47.577                                     
+MTLP0008       MTLP0008       Dental              MTLM101119          swapAppointment                    accessed       2019-10-26 22:33:47.58                                      
+-              -              -                   -                   Received DB                        Success        2019-10-26 22:33:51.627                                     
+-              MTLP0008       -                   -                   get Appointment Schedule           Success        2019-10-26 22:34:04.143                                     
+-              MTLP0008       -                   -                   get Appointment Schedule           Success        2019-10-26 22:34:17.603                                     
+-              MTLP0008       -                   -                   get Appointment Schedule           Success        2019-10-26 22:34:55.767                                     
+-              MTLP0008       -                   -                   get Appointment Schedule           Success        2019-10-26 22:35:28.099                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-26 22:38:41.059                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 22:38:41.055                                     
+MTLA0001       MTLP0020       Physician           MTLA121119          book Appointment                   accessed       2019-10-26 22:39:49.85                                      
+-              -              -                   -                   Send DB                            Success        2019-10-26 22:39:49.848                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-26 22:40:21.799                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 22:44:05.121                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-26 22:44:05.124                                     
+-              -              -                   -                   Received DB                        Success        2019-10-26 22:44:09.17                                      
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-26 22:44:09.17                                      
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-26 22:44:21.716                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 22:51:28.033                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-26 22:51:28.042                                     
+-              -              -                   -                   Received DB                        Success        2019-10-26 22:51:32.114                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-26 22:51:32.119                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-26 22:51:38.141                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 22:53:35.325                                     
+MTLP0008       MTLP0008       Dental              MTLM101119          swapAppointment                    accessed       2019-10-26 22:53:35.331                                     
+-              -              -                   -                   Received DB                        Success        2019-10-26 22:53:39.394                                     
+-              MTLP0008       -                   -                   get Appointment Schedule           Success        2019-10-26 22:53:56.413                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 22:57:17.516                                     
+QUEP0007       QUEP0007       Dental              QUEA101119          swapAppointment                    accessed       2019-10-26 22:57:17.525                                     
+QUEP0007       QUEP0007       Dental              QUEA101119          swapAppointment                    accessed       2019-10-26 22:57:21.589                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 23:04:13.015                                     
+-              -              -                   -                   Received DB                        Success        2019-10-26 23:04:13.068                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 23:07:06.426                                     
+MTLP0008       MTLP0008       Dental              MTLM101119          swapAppointment                    accessed       2019-10-26 23:07:06.432                                     
+-              -              -                   -                   Received DB                        Success        2019-10-26 23:07:10.498                                     
+-              MTLP0008       -                   -                   get Appointment Schedule           Success        2019-10-26 23:07:15.028                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-26 23:07:59.251                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 23:08:03.266                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-26 23:08:24.696                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 23:10:50.699                                     
+MTLP0004       MTLP0004       Surgeon             MTLA101119          swapAppointment                    accessed       2019-10-26 23:10:50.707                                     
+MTLP0004       MTLP0004       Surgeon             MTLA101119          swapAppointment                    accessed       2019-10-26 23:10:54.778                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-26 23:11:10.24                                      
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-26 23:11:20.995                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 23:15:49.245                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-26 23:15:49.25                                      
+-              -              -                   -                   Received DB                        Success        2019-10-26 23:15:53.315                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-26 23:15:53.318                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-26 23:15:56.177                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-26 23:16:28.821                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 23:17:47.947                                     
+MTLP0009       MTLP0009       Dental              MTLE101119          swapAppointment                    accessed       2019-10-26 23:17:47.955                                     
+-              MTLP0009       -                   -                   get Appointment Schedule           Success        2019-10-26 23:18:27.855                                     
+MTLP0009       MTLP0009       Physician           MTLA101119          swapAppointment                    accessed       2019-10-26 23:19:37.43                                      
+-              -              -                   -                   Received DB                        Success        2019-10-26 23:19:41.452                                     
+-              MTLP0009       -                   -                   get Appointment Schedule           Success        2019-10-26 23:19:48.004                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 23:28:21.81                                      
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-26 23:28:21.816                                     
+-              -              -                   -                   Received DB                        Success        2019-10-26 23:28:25.878                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-26 23:28:25.881                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-26 23:28:32.412                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 23:34:35.77                                      
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-26 23:34:35.777                                     
+-              -              -                   -                   Received DB                        Success        2019-10-26 23:38:36.849                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-26 23:39:02.953                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 23:44:13.715                                     
+MTLP0001       MTLP0001       Physician           MTLA101119          swapAppointment                    accessed       2019-10-26 23:44:13.72                                      
+MTLP0001       MTLP0001       Physician           MTLA101119          swapAppointment                    accessed       2019-10-26 23:44:17.785                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-26 23:44:49.144                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 23:46:36.947                                     
+MTLP0008       MTLP0008       Dental              MTLM101119          swapAppointment                    accessed       2019-10-26 23:46:36.953                                     
+MTLP0001       MTLP0001       Physician           MTLA101119          swapAppointment                    accessed       2019-10-26 23:47:32.17                                      
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-26 23:47:52.546                                     
+-              -              -                   -                   Send DB                            Success        2019-10-26 23:56:43.656                                     
+MTLP0008       MTLP0008       Dental              MTLM101119          swapAppointment                    accessed       2019-10-26 23:56:43.664                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-26 23:59:14.609                                     
+MTLA0001       MTLP0001       Physician           MTLA101119          swapAppointment                    accessed       2019-10-27 00:00:31.635                                     
+MTLA0001       MTLP0002       Physician           MTLM101119          swapAppointment                    accessed       2019-10-27 00:14:32.549                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 00:52:20.38                                      
+MTLA0001       MTLP0001       Surgeon             MTLA101119          book Appointment                   accessed       2019-10-27 00:52:20.386                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 01:09:32.792                                     
+MTLA0001       MTLP0001       Surgeon             MTLA101119          book Appointment                   accessed       2019-10-27 01:09:32.8                                       
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-27 01:09:56.582                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-27 01:10:30.648                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 01:16:53.985                                     
+MTLA0001       MTLP0001       Surgeon             MTLA101119          book Appointment                   accessed       2019-10-27 01:16:53.99                                      
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-27 01:17:06.951                                     
+MTLA0001       MTLP0008       Dental              MTLM101119          swapAppointment                    accessed       2019-10-27 01:18:25.281                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-27 01:18:41.507                                     
+MTLA0001       MTLP0001       Physician           MTLA101119          swapAppointment                    accessed       2019-10-27 01:19:46.975                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-27 01:19:55.765                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-27 01:20:19.416                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 01:24:29.474                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-27 01:24:29.486                                     
+-              -              -                   -                   Received DB                        Success        2019-10-27 01:24:33.558                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-27 01:24:33.561                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-27 01:25:51.641                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 01:29:56.89                                      
+MTLP0008       MTLP0008       Dental              MTLM101119          swapAppointment                    accessed       2019-10-27 01:29:56.896                                     
+-              -              -                   -                   Received DB                        Success        2019-10-27 01:30:00.966                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-27 01:31:12.606                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 01:31:16.629                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-27 01:31:38.948                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 01:41:22.87                                      
+SHEA0001       SHEP0004       Surgeon             SHEA101119          swapAppointment                    accessed       2019-10-27 01:41:22.875                                     
+-              -              -                   -                   Received DB                        Success        2019-10-27 01:41:26.923                                     
+SHEA0001       SHEP0004       Surgeon             SHEA101119          swapAppointment                    accessed       2019-10-27 01:41:26.926                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 01:43:59.935                                     
+MTLP0001       MTLP0001       Physician           MTLA101119          swapAppointment                    accessed       2019-10-27 01:43:59.941                                     
+MTLP0001       MTLP0001       Physician           MTLA101119          swapAppointment                    accessed       2019-10-27 01:44:04.01                                      
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-27 01:44:34.654                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-27 01:44:44.91                                      
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-27 01:44:52.965                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-27 02:25:53.944                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 02:25:53.94                                      
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-27 09:17:15.399                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 09:17:15.396                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 09:48:44.721                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-27 09:48:44.724                                     
+-              -              -                   -                   Received DB                        Success        2019-10-27 09:48:48.771                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-27 09:48:48.771                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 09:51:06.94                                      
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-27 09:51:06.944                                     
+-              -              -                   -                   Received DB                        Success        2019-10-27 09:57:33.484                                     
+MTLP0007       MTLP0007       Dental              MTLA101119          swapAppointment                    accessed       2019-10-27 09:58:46.959                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 10:06:16.872                                     
+MTLP0008       MTLP0008       Dental              MTLM101119          swapAppointment                    accessed       2019-10-27 10:06:16.878                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 10:07:17.495                                     
+MTLP0008       MTLP0008       Dental              MTLM101119          swapAppointment                    accessed       2019-10-27 10:07:17.499                                     
+-              -              -                   -                   Received DB                        Success        2019-10-27 10:07:21.537                                     
+-              MTLP0008       -                   -                   get Appointment Schedule           Success        2019-10-27 10:07:31.601                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 10:18:00.134                                     
+MTLP0008       MTLP0008       Dental              MTLM101119          swapAppointment                    accessed       2019-10-27 10:18:00.141                                     
+-              -              -                   -                   Received DB                        Success        2019-10-27 10:18:04.178                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 18:44:26.643                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-27 18:46:53.211                                     
+-              -              -                   -                   Send DB                            Success        2019-10-27 18:46:53.206                                     
+QUEA0001       QUEA0001       -                   -                   add Appointment                    Success        2019-10-28 09:19:42.874                                     
+QUEA0001       QUEA0001       -                   -                   add Appointment                    Success        2019-10-28 09:20:08.837                                     
+-              -              -                   -                   Send DB                            Success        2019-10-28 09:24:25.572                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-28 09:24:25.576                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-28 09:24:34.684                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-10-28 09:24:49.211                                     
+SHEP0020       SHEP0020       Physician           QUEE100619          book Appointment                   accessed       2019-10-28 09:27:12.414                                     
+SHEP0020       SHEP0020       Physician           QUEE100619          book Appointment                   Success        2019-10-28 09:27:14.42                                      
+-              -              -                   -                   Send DB                            Success        2019-10-28 09:27:14.431                                     
+SHEP0020       SHEP0020       Dental              QUEE110619          book Appointment                   accessed       2019-10-28 09:27:51.388                                     
+SHEP0020       SHEP0020       Dental              QUEE110619          book Appointment                   Success        2019-10-28 09:27:53.392                                     
+-              -              -                   -                   Send DB                            Success        2019-10-28 09:27:53.399                                     
+SHEP0020       SHEP0020       Physician           MTLA120619          book Appointment                   accessed       2019-10-28 09:28:24.733                                     
+SHEP0020       SHEP0020       Physician           SHEA130619          book Appointment                   accessed       2019-10-28 09:28:48.81                                      
+SHEP0020       SHEP0020       Physician           SHEA130619          swapAppointment                    accessed       2019-10-28 09:38:59.11                                      
+SHEP0020       SHEP0020       Physician           MTLE121212          book Appointment                   accessed       2019-10-28 09:40:25.784                                     
+-              SHEP0020       -                   -                   get Appointment Schedule           Success        2019-10-28 09:40:35.333                                     
+SHEP0020       SHEP0020       Physician           QUEE100619          swapAppointment                    accessed       2019-10-28 09:43:07.084                                     
+-              -              -                   -                   Send DB                            Success        2019-10-28 09:43:09.096                                     
+-              SHEP0020       -                   -                   get Appointment Schedule           Success        2019-10-28 09:43:27.925                                     
+QUEP0020       QUEP0020       Surgeon             MTLA140619          book Appointment                   accessed       2019-10-28 09:45:09.717                                     
+QUEP0020       QUEP0020       Surgeon             MTLA140619          book Appointment                   Success        2019-10-28 09:45:09.723                                     
+QUEP0020       QUEP0020       Surgeon             MTLA140619          book Appointment                   Failed         2019-10-28 09:45:09.738                                     
+QUEP0020       QUEP0020       Surgeon             MTLA140619          swapAppointment                    accessed       2019-10-28 09:46:06.776                                     
+QUEP0020       QUEP0020       Surgeon             MTLA140619          swap Appointment                   Failed         2019-10-28 09:46:06.778                                     
+QUEP0020       QUEP0020       -                   -                   swap Appointment                   Failed         2019-10-28 09:46:06.791                                     
+QUEP0020       QUEP0020       Physician           MTLA120619          swapAppointment                    accessed       2019-10-28 09:46:59.308                                     
+QUEP0020       QUEP0020       Physician           MTLA120619          swap Appointment                   Failed         2019-10-28 09:46:59.31                                      
+QUEP0020       QUEP0020       -                   -                   swap Appointment                   Failed         2019-10-28 09:46:59.334                                     
+-              QUEP0020       -                   -                   get Appointment Schedule           Success        2019-10-28 09:47:53.634                                     
+QUEP0020       QUEP0020       -                   -                   get Appointment Schedule           Success        2019-10-28 09:47:53.644                                     
+-              -              -                   -                   Send DB                            Success        2019-10-28 09:48:37.382                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-28 09:48:37.385                                     
+-              -              -                   -                   Send DB                            Success        2019-10-28 09:53:45.45                                      
+-              -              Physician           -                   list Appointment Availability      Success        2019-10-28 09:53:45.453                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-10-28 10:50:46.344                                     
+-              -              -                   -                   Send DB                            Success        2019-11-05 20:44:56.603                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-05 20:44:56.61                                      
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-05 20:45:39.818                                     
+QUEA0001       QUEA0001       -                   -                   list Appointment Availability      Success        2019-11-05 20:45:39.864                                     
+QUEA0001       MTLP0020       Surgeon             MTLM101119          book Appointment                   accessed       2019-11-05 20:46:01.925                                     
+QUEA0001       MTLP0020       Surgeon             MTLM101119          book Appointment                   Failed         2019-11-05 20:46:05.995                                     
+-              MTLP0001       -                   -                   get Appointment Schedule           Success        2019-11-05 20:46:26.501                                     
+QUEA0001       MTLP0001       -                   -                   get Appointment Schedule           Success        2019-11-05 20:46:26.557                                     
+QUEA0001       MTLP0020       Surgeon             MTLM101119          cancel Appointment                 accessed       2019-11-05 20:47:07.783                                     
+QUEA0001       MTLP0020       Surgeon             MTLM101119          cancel Appointment                 Failed         2019-11-05 20:47:07.788                                     
+QUEA0001       MTLP0020       -                   -                   cancel Appointment                 Failed         2019-11-05 20:47:07.837                                     
+QUEA0001       QUEA0001       -                   -                   add Appointment                    Failed         2019-11-05 20:48:10.049                                     
+QUEA0001       QUEA0001       -                   -                   add Appointment                    Success        2019-11-05 20:49:25.159                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-11-05 20:50:57.646                                     
+QUEA0001       QUEA0001       -                   -                   list Appointment Availability      Success        2019-11-05 20:50:57.681                                     
+-              -              -                   -                   Send DB                            Success        2019-11-05 20:51:54.976                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-11-05 20:51:54.98                                      
+MTLA0001       MTLP0004       Surgeon             MTLA101119          swapAppointment                    accessed       2019-11-05 20:57:25.315                                     
+-              -              -                   -                   Send DB                            Success        2019-11-05 20:57:25.308                                     
+-              -              -                   -                   Received DB                        Success        2019-11-05 20:57:29.379                                     
+MTLA0001       MTLP0020       Surgeon             MTLA101119          swapAppointment                    accessed       2019-11-05 20:58:51.219                                     
+-              -              -                   -                   Send DB                            Success        2019-11-12 15:30:46.084                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-11-12 15:30:46.089                                     
+-              -              -                   -                   Send DB                            Success        2019-11-12 18:40:14.151                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-11-12 18:40:14.156                                     
+-              MTLP0001       -                   -                   get Appointment Schedule           Success        2019-11-12 18:40:46.956                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-12 21:06:06.313                                     
+QUEA0001       QUEA0001       -                   -                   list Appointment Availability      Failed         2019-11-12 21:06:06.361                                     
+-              -              -                   -                   Send DB                            Success        2019-11-14 15:39:57.672                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-14 15:39:57.679                                     
+-              MTLP0001       -                   -                   get Appointment Schedule           Success        2019-11-14 15:49:21.723                                     
+-              -              -                   -                   Send DB                            Success        2019-11-14 17:29:10.523                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-14 17:29:10.526                                     
+-              -              -                   -                   Send DB                            Success        2019-11-14 17:36:42.939                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-14 17:36:42.943                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-11-14 17:37:02.297                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-11-14 17:37:12.301                                     
+-              -              -                   -                   Send DB                            Success        2019-11-14 17:44:28.228                                     
+-              MTLP0001       -                   -                   get Appointment Schedule           Success        2019-11-14 17:44:28.231                                     
+-              MTLP0001       -                   -                   get Appointment Schedule           Success        2019-11-14 17:47:31.958                                     
+-              MTLP0002       -                   -                   get Appointment Schedule           Success        2019-11-14 17:47:55.999                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-14 17:48:30.48                                      
+-              -              -                   -                   Send DB                            Success        2019-11-14 18:15:48.91                                      
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-11-14 18:15:48.913                                     
+-              MTLP0001       -                   -                   get Appointment Schedule           Success        2019-11-14 18:16:12.19                                      
+-              MTLP0002       -                   -                   get Appointment Schedule           Success        2019-11-14 18:16:56.705                                     
+-              QUEP0001       -                   -                   get Appointment Schedule           Success        2019-11-14 18:17:13.82                                      
+-              -              -                   -                   Send DB                            Success        2019-11-14 19:00:35.025                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-14 19:00:35.031                                     
+-              MTLP0001       -                   -                   get Appointment Schedule           Success        2019-11-14 19:01:24.464                                     
+MTLA0001       MTLP0020       Surgeon             MTLA101119          book Appointment                   accessed       2019-11-14 19:02:07.501                                     
+-              -              -                   -                   Send DB                            Success        2019-11-14 19:08:40.212                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-11-14 19:08:40.218                                     
+MTLA0001       MTLP0020       Surgeon             MTLA101119          book Appointment                   accessed       2019-11-14 19:09:16.402                                     
+MTLA0001       MTLP0020       Surgeon             MTLA101119          cancelAppointment                  accessed       2019-11-14 19:10:16.703                                     
+MTLA0001       MTLP0004       Surgeon             MTLA101119          swapAppointment                    accessed       2019-11-14 19:14:36.706                                     
+-              -              -                   -                   Send DB                            Success        2019-11-14 19:14:40.727                                     
+-              -              -                   -                   Send DB                            Success        2019-11-14 19:20:14.474                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-14 19:20:14.48                                      
+-              -              Dental              -                   list Appointment Availability      Success        2019-11-14 19:20:53.453                                     
+-              -              -                   -                   Send DB                            Success        2019-11-14 21:29:49.404                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-14 21:29:49.408                                     
+-              -              -                   -                   Send DB                            Success        2019-11-14 21:46:54.438                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-14 21:46:54.443                                     
+-              -              -                   -                   Send DB                            Success        2019-11-14 22:03:10.451                                     
+-              MTLP0001       -                   -                   get Appointment Schedule           Success        2019-11-14 22:03:10.455                                     
+-              -              -                   -                   Send DB                            Success        2019-11-14 22:08:43.405                                     
+-              MTLP0001       -                   -                   get Appointment Schedule           Success        2019-11-14 22:08:43.409                                     
+-              -              -                   -                   Send DB                            Success        2019-11-18 10:41:18.451                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-18 10:41:18.459                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-18 10:42:49.129                                     
+-              -              -                   -                   Send DB                            Success        2019-11-19 19:22:15.816                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-19 19:22:15.819                                     
+-              -              -                   -                   Send DB                            Success        2019-11-19 22:01:20.802                                     
+-              MTLP0001       -                   -                   get Appointment Schedule           Success        2019-11-19 22:01:20.808                                     
+QUEA9000       QUEA9000       -                   -                   add Appointment                    Failed         2019-11-21 11:45:34.449                                     
+QUEA9000       QUEA9000       -                   -                   add Appointment                    Success        2019-11-21 11:47:10.188                                     
+QUEA9000       QUEA9000       -                   -                   add Appointment                    Success        2019-11-21 11:47:53.643                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-21 11:48:16.817                                     
+QUEA9000       QUEA9000       -                   -                   list Appointment Availability      Success        2019-11-21 11:48:16.857                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-11-21 11:48:33.296                                     
+QUEA9000       QUEA9000       -                   -                   list Appointment Availability      Success        2019-11-21 11:48:33.323                                     
+-              -              Dental              -                   list Appointment Availability      Success        2019-11-21 11:48:42.789                                     
+QUEA9000       QUEA9000       -                   -                   list Appointment Availability      Success        2019-11-21 11:48:42.833                                     
+-              -              -                   -                   Send DB                            Success        2019-11-21 11:52:02.674                                     
+SHEP1234       SHEP1234       Physician           MTLA120819          book Appointment                   accessed       2019-11-21 11:52:02.683                                     
+SHEP1234       SHEP1234       Dental              MTLM110819          book Appointment                   accessed       2019-11-21 11:53:53.747                                     
+SHEP1234       SHEP1234       Dental              QUEA140819          book Appointment                   accessed       2019-11-21 11:55:19.903                                     
+SHEP1234       SHEP1234       Dental              QUEA140819          book Appointment                   Success        2019-11-21 11:55:21.932                                     
+-              -              -                   -                   Received DB                        Success        2019-11-21 11:55:21.948                                     
+SHEP1234       SHEP1234       Surgeon             SHEE080819          book Appointment                   accessed       2019-11-21 11:55:53.473                                     
+SHEP1234       SHEP1234       Surgeon             SHEE080819          swapAppointment                    accessed       2019-11-21 11:57:48.981                                     
+-              -              -                   -                   Send DB                            Success        2019-11-21 12:01:38.247                                     
+-              SHEP1234       -                   -                   get Appointment Schedule           Success        2019-11-21 12:01:38.249                                     
+SHEA6785       SHEP1834       Physician           MTLA120819          book Appointment                   accessed       2019-11-21 12:03:48.996                                     
+SHEA6785       SHEP1234       Dental              QUEA140819          cancel Appointment                 accessed       2019-11-21 12:04:55.128                                     
+SHEA6785       SHEP1234       Dental              QUEA140819          cancel Appointment                 Success        2019-11-21 12:04:57.157                                     
+-              -              -                   -                   Send DB                            Success        2019-11-21 12:04:57.173                                     
+SHEA6785       SHEP1834       Physician           MTLA120819          swapAppointment                    accessed       2019-11-21 12:08:06.043                                     
+SHEA6785       SHEP1834       Physician           MTLA120819          swapAppointment                    accessed       2019-11-21 12:16:32.332                                     
+-              -              Physician           -                   list Appointment Availability      Success        2019-11-21 12:16:56.506                                     
+-              -              Surgeon             -                   list Appointment Availability      Success        2019-11-21 12:17:15.205                                     

@@ -1,0 +1,286 @@
+MTLA0001       list Appointment Availability      Success        2019-10-11 17:24:36.755                                     
+MTLA0001       list Appointment Availability      Success        2019-10-11 17:26:40.348                                     
+MTLA0001       book Appointment                   Success        2019-10-11 17:29:33.488                                     
+MTLA0001       book Appointment                   Success        2019-10-11 17:29:35.849                                     
+MTLA0001       book Appointment                   Success        2019-10-11 17:29:38.204                                     
+MTLA0001       list Appointment Availability      Success        2019-10-11 17:35:07.018                                     
+MTLA0001       list Appointment Availability      Success        2019-10-11 17:37:05.082                                     
+MTLA0001       swap Appointment                   Success        2019-10-11 20:30:10.269                                     
+MTLA0001       swap Appointment                   Success        2019-10-11 20:33:06.189                                     
+QUEA0001       list Appointment Availability      Success        2019-10-11 20:35:03.781                                     
+MTLA0001       list Appointment Availability      Success        2019-10-11 20:35:35.151                                     
+MTLP0001       get Appointment Schedule           Success        2019-10-11 20:36:10.361                                     
+MTLA0001       list Appointment Availability      Success        2019-10-11 20:56:14.688                                     
+QUEA0001       list Appointment Availability      Success        2019-10-11 20:56:42.076                                     
+MTLA0001       list Appointment Availability      Success        2019-10-11 20:57:59.674                                     
+MTLA0001       remove Appointment                 Success        2019-10-11 20:58:19.559                                     
+MTLA0001       list Appointment Availability      Success        2019-10-11 21:01:15.448                                     
+MTLA0001       list Appointment Availability      Success        2019-10-11 21:08:33.694                                     
+MTLA0001       get Appointment Schedule           Success        2019-10-11 21:08:48.928                                     
+MTLA0001       list Appointment Availability      Success        2019-10-11 21:13:41.479                                     
+MTLA0001       swap Appointment                   Success        2019-10-11 21:13:53.453                                     
+SHEA0001       list Appointment Availability      Success        2019-10-11 21:16:04.204                                     
+MTLA0001       list Appointment Availability      Success        2019-10-12 14:41:40.516                                     
+MTLA0001       list Appointment Availability      Success        2019-10-12 14:42:36.635                                     
+MTLA0001       add Appointment                    Success        2019-10-14 16:40:35.962                                     
+QUEA0001       add Appointment                    Success        2019-10-14 16:46:49.424                                     
+MTLA0001       list Appointment Availability      Success        2019-10-14 17:18:30.895                                     
+MTLA0001       list Appointment Availability      Success        2019-10-14 17:19:57.567                                     
+MTLA0001       list Appointment Availability      Success        2019-10-14 18:52:41.592                                     
+MTLA0001       get Appointment Schedule           Success        2019-10-14 18:52:59.691                                     
+MTLA0001       list Appointment Availability      Success        2019-10-14 18:53:07.549                                     
+MTLA0001       list Appointment Availability      Success        2019-10-14 18:53:16.682                                     
+MTLA0001       list Appointment Availability      Success        2019-10-14 21:18:25.986                                     
+SHEA0001       list Appointment Availability      Success        2019-10-15 14:56:43.132                                     
+MTLA0001       list Appointment Availability      Success        2019-10-15 15:51:26.277                                     
+MTLA0001       list Appointment Availability      Success        2019-10-15 15:52:37.779                                     
+MTLA0001       swap Appointment                   Success        2019-10-15 15:52:42.68                                      
+MTLA0001       swap Appointment                   Success        2019-10-15 15:52:46.297                                     
+QUEA0001       list Appointment Availability      Success        2019-10-15 15:53:15.374                                     
+QUEA0001       list Appointment Availability      Success        2019-10-15 15:53:26.962                                     
+MTLA0001       list Appointment Availability      Success        2019-10-15 15:58:28.731                                     
+MTLA0001       list Appointment Availability      Success        2019-10-15 16:01:22.69                                      
+QUEA0001       add Appointment                    Failure        2019-10-15 16:09:42.774                                     
+MTLA0001       book Appointment                   Failed         2019-10-15 21:28:10.713                                     
+MTLA0001       list Appointment Availability      Success        2019-10-15 21:35:50.431                                     
+SHEA0001       list Appointment Availability      Success        2019-10-15 21:36:24.937                                     
+QUEA0001       list Appointment Availability      Success        2019-10-15 21:36:53.446                                     
+QUEA0001       list Appointment Availability      Success        2019-10-15 21:40:12.82                                      
+MTLA0001       list Appointment Availability      Success        2019-10-17 10:27:20.018                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 10:27:46.563                                     
+QUEA0001       list Appointment Availability      Success        2019-10-17 10:28:48.263                                     
+MTLP0001       swap Appointment                   Failed         2019-10-17 10:30:41.63                                      
+MTLP0001       get Appointment Schedule           Success        2019-10-17 10:30:59.239                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 11:19:27.948                                     
+SHEA0001       list Appointment Availability      Success        2019-10-17 11:20:00.826                                     
+QUEP0009       get Appointment Schedule           Success        2019-10-17 11:20:38.981                                     
+QUEA0001       list Appointment Availability      Success        2019-10-17 11:21:43.194                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 13:02:33.346                                     
+QUEA0001       book Appointment                   Failed         2019-10-17 13:59:55.472                                     
+QUEA0001       list Appointment Availability      Success        2019-10-17 14:01:57.594                                     
+QUEA0001       book Appointment                   Failed         2019-10-17 14:03:33.927                                     
+QUEA0001       list Appointment Availability      Success        2019-10-17 14:03:52.625                                     
+QUEA0001       get Appointment Schedule           Success        2019-10-17 14:07:49.643                                     
+MTLA0001       get Appointment Schedule           Success        2019-10-17 15:46:34.389                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 16:06:23.809                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 16:07:50.927                                     
+MTLA0001       remove Appointment                 Failed         2019-10-17 16:37:23.915                                     
+MTLA0001       remove Appointment                 Success        2019-10-17 16:42:17.247                                     
+MTLA0001       add Appointment                    Success        2019-10-17 16:43:50.932                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 16:45:26.254                                     
+MTLA0001       add Appointment                    Success        2019-10-17 16:46:26.189                                     
+MTLA0001       cancel Appointment                 Failed         2019-10-17 16:47:30.196                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 16:48:00.818                                     
+MTLA0001       book Appointment                   Failed         2019-10-17 16:49:09.067                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 16:49:44.726                                     
+MTLA0001       cancel Appointment                 Failed         2019-10-17 16:50:47.741                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 16:57:10.048                                     
+MTLA0001       remove Appointment                 Failed         2019-10-17 16:57:44.649                                     
+SHEA0001       add Appointment                    Failed         2019-10-17 18:42:57.086                                     
+SHEA0001       add Appointment                    Success        2019-10-17 18:46:44.936                                     
+SHEA0001       add Appointment                    Success        2019-10-17 18:47:46.501                                     
+MTLA0001       add Appointment                    Success        2019-10-17 18:49:09.761                                     
+MTLA0001       add Appointment                    Success        2019-10-17 18:49:56.482                                     
+MTLA0001       add Appointment                    Success        2019-10-17 18:50:33.896                                     
+QUEA0001       list Appointment Availability      Success        2019-10-17 18:51:29.567                                     
+MTLA0001       add Appointment                    Success        2019-10-17 19:27:31.135                                     
+MTLA0001       book Appointment                   Failed         2019-10-17 19:28:24.379                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 19:41:32.558                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 19:41:51.904                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 19:42:42.167                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 19:44:48.367                                     
+MTLA0001       book Appointment                   Failed         2019-10-17 19:45:51.68                                      
+MTLA0001       add Appointment                    Success        2019-10-17 19:47:16.751                                     
+MTLA0001       book Appointment                   Failed         2019-10-17 19:48:19.181                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 19:48:40.902                                     
+MTLA0001       add Appointment                    Success        2019-10-17 20:58:07.493                                     
+MTLA0001       book Appointment                   Failed         2019-10-17 20:58:32.601                                     
+MTLA0001       book Appointment                   Failed         2019-10-17 21:01:49.852                                     
+MTLA0001       list Appointment Availability      Success        2019-10-17 21:29:59.801                                     
+MTLA0001       book Appointment                   Failed         2019-10-17 21:30:46.867                                     
+MTLA0001       list Appointment Availability      Success        2019-10-18 16:36:51.701                                     
+MTLA0001       add Appointment                    Success        2019-10-18 16:37:20.55                                      
+MTLA0001       book Appointment                   Failed         2019-10-18 16:37:45.483                                     
+MTLA0001       book Appointment                   Failed         2019-10-18 16:38:07.264                                     
+MTLA0001       book Appointment                   Failed         2019-10-18 16:41:16.314                                     
+MTLA0001       cancel Appointment                 Failed         2019-10-18 16:41:38.317                                     
+MTLA0001       list Appointment Availability      Success        2019-10-19 10:30:41.436                                     
+MTLA0001       add Appointment                    Success        2019-10-19 10:31:10.811                                     
+MTLA0001       book Appointment                   Failed         2019-10-19 10:31:30.063                                     
+MTLA0001       list Appointment Availability      Success        2019-10-19 10:31:51.046                                     
+MTLA0001       swap Appointment                   Failed         2019-10-26 22:05:37.245                                     
+MTLA0001       get Appointment Schedule           Success        2019-10-26 22:05:55.308                                     
+MTLA0001       swap Appointment                   Failed         2019-10-26 22:12:52.611                                     
+MTLA0001       swap Appointment                   Failed         2019-10-26 22:14:03.224                                     
+MTLA0001       swap Appointment                   Failed         2019-10-26 22:14:56.13                                      
+MTLA0001       swap Appointment                   Failed         2019-10-26 22:15:34.507                                     
+MTLA0001       swap Appointment                   Failed         2019-10-26 22:16:22.955                                     
+MTLA0001       swap Appointment                   Failed         2019-10-26 22:17:09.946                                     
+MTLA0001       get Appointment Schedule           Success        2019-10-26 22:18:06.653                                     
+SHEA0001       swap Appointment                   Failed         2019-10-26 22:21:21.024                                     
+MTLA0001       list Appointment Availability      Success        2019-10-26 22:25:35.657                                     
+MTLP0008       swap Appointment                   Failed         2019-10-26 22:33:51.63                                      
+MTLP0008       get Appointment Schedule           Success        2019-10-26 22:34:08.158                                     
+MTLP0008       get Appointment Schedule           Success        2019-10-26 22:34:21.635                                     
+MTLA0001       get Appointment Schedule           Success        2019-10-26 22:34:59.785                                     
+MTLP0008       get Appointment Schedule           Success        2019-10-26 22:35:32.119                                     
+MTLA0001       remove Appointment                 Success        2019-10-26 22:38:37.129                                     
+MTLA0001       list Appointment Availability      Success        2019-10-26 22:38:45.089                                     
+MTLA0001       add Appointment                    Success        2019-10-26 22:39:37.661                                     
+MTLA0001       book Appointment                   Failed         2019-10-26 22:39:53.883                                     
+MTLA0001       remove Appointment                 Failed         2019-10-26 22:40:15.205                                     
+MTLA0001       list Appointment Availability      Success        2019-10-26 22:40:25.831                                     
+MTLA0001       list Appointment Availability      Success        2019-10-26 22:44:25.727                                     
+MTLA0001       list Appointment Availability      Success        2019-10-26 22:51:42.166                                     
+MTLP0008       swap Appointment                   Failed         2019-10-26 22:53:39.413                                     
+MTLP0008       get Appointment Schedule           Success        2019-10-26 22:54:00.435                                     
+MTLP0008       swap Appointment                   Failed         2019-10-26 23:07:10.517                                     
+MTLP0008       get Appointment Schedule           Success        2019-10-26 23:07:19.051                                     
+MTLP0007       swap Appointment                   Failed         2019-10-26 23:08:03.29                                      
+MTLA0001       list Appointment Availability      Success        2019-10-26 23:08:28.729                                     
+MTLA0001       list Appointment Availability      Success        2019-10-26 23:11:14.255                                     
+MTLA0001       list Appointment Availability      Success        2019-10-26 23:11:25.005                                     
+MTLA0001       list Appointment Availability      Success        2019-10-26 23:16:00.198                                     
+MTLA0001       list Appointment Availability      Success        2019-10-26 23:16:32.843                                     
+MTLP0009       swap Appointment                   Failed         2019-10-26 23:17:52.021                                     
+MTLP0009       get Appointment Schedule           Success        2019-10-26 23:18:31.89                                      
+MTLP0009       swap Appointment                   Failed         2019-10-26 23:19:41.46                                      
+MTLP0009       get Appointment Schedule           Success        2019-10-26 23:19:52.026                                     
+MTLA0001       list Appointment Availability      Success        2019-10-26 23:28:36.436                                     
+MTLA0001       list Appointment Availability      Success        2019-10-26 23:44:53.155                                     
+MTLP0008       swap Appointment                   Failed         2019-10-26 23:46:41.029                                     
+MTLP0001       swap Appointment                   Failed         2019-10-26 23:47:36.192                                     
+MTLA0001       list Appointment Availability      Success        2019-10-26 23:47:56.58                                      
+MTLP0008       swap Appointment                   Failed         2019-10-26 23:58:41.811                                     
+MTLA0001       list Appointment Availability      Success        2019-10-26 23:59:37.159                                     
+MTLA0001       swap Appointment                   Failed         2019-10-27 00:13:17.06                                      
+MTLA0001       book Appointment                   Failed         2019-10-27 00:52:24.476                                     
+MTLA0001       book Appointment                   Failed         2019-10-27 01:09:36.893                                     
+MTLA0001       list Appointment Availability      Success        2019-10-27 01:10:00.595                                     
+MTLA0001       list Appointment Availability      Success        2019-10-27 01:10:34.671                                     
+MTLA0001       book Appointment                   Failed         2019-10-27 01:16:58.069                                     
+MTLA0001       list Appointment Availability      Success        2019-10-27 01:17:10.977                                     
+MTLA0001       swap Appointment                   Failed         2019-10-27 01:18:29.313                                     
+MTLA0001       list Appointment Availability      Success        2019-10-27 01:18:45.527                                     
+MTLA0001       swap Appointment                   Failed         2019-10-27 01:19:51.012                                     
+MTLA0001       list Appointment Availability      Success        2019-10-27 01:19:59.778                                     
+MTLA0001       list Appointment Availability      Success        2019-10-27 01:20:23.463                                     
+MTLA0001       list Appointment Availability      Success        2019-10-27 01:25:55.663                                     
+MTLP0008       swap Appointment                   Failed         2019-10-27 01:30:00.975                                     
+MTLP0007       swap Appointment                   Failed         2019-10-27 01:31:16.631                                     
+MTLA0001       list Appointment Availability      Success        2019-10-27 01:31:42.971                                     
+MTLA0001       list Appointment Availability      Success        2019-10-27 01:44:38.679                                     
+MTLA0001       list Appointment Availability      Success        2019-10-27 01:44:48.944                                     
+MTLA0001       list Appointment Availability      Success        2019-10-27 01:44:56.998                                     
+MTLA0001       remove Appointment                 Success        2019-10-27 02:14:07.512                                     
+MTLA0001       remove Appointment                 Success        2019-10-27 02:23:08.205                                     
+MTLA0001       remove Appointment                 Success        2019-10-27 02:24:49.128                                     
+MTLA0001       remove Appointment                 Success        2019-10-27 02:25:50.301                                     
+MTLA0001       list Appointment Availability      Success        2019-10-27 02:25:57.987                                     
+MTLA0001       remove Appointment                 Success        2019-10-27 09:17:08.93                                      
+MTLA0001       list Appointment Availability      Success        2019-10-27 09:17:19.434                                     
+MTLA0001       remove Appointment                 Success        2019-10-27 09:20:12.022                                     
+MTLP0008       swap Appointment                   Failed         2019-10-27 10:07:21.54                                      
+MTLP0008       get Appointment Schedule           Success        2019-10-27 10:07:35.62                                      
+MTLP0008       swap Appointment                   Failed         2019-10-27 10:18:04.203                                     
+MTLA0001       list Appointment Availability      Success        2019-10-27 18:44:26.691                                     
+MTLA0001       remove Appointment                 Success        2019-10-27 18:46:49.813                                     
+MTLA0001       list Appointment Availability      Success        2019-10-27 18:46:57.406                                     
+QUEA0001       add Appointment                    Success        2019-10-28 09:19:42.819                                     
+QUEA0001       add Appointment                    Success        2019-10-28 09:20:08.835                                     
+MTLA0001       add Appointment                    Success        2019-10-28 09:21:02.805                                     
+MTLA0001       add Appointment                    Success        2019-10-28 09:21:58.995                                     
+SHEA0001       add Appointment                    Success        2019-10-28 09:22:53.067                                     
+SHEA0001       add Appointment                    Success        2019-10-28 09:24:13.707                                     
+SHEA0001       list Appointment Availability      Success        2019-10-28 09:24:27.589                                     
+SHEA0001       list Appointment Availability      Success        2019-10-28 09:24:36.695                                     
+SHEA0001       list Appointment Availability      Success        2019-10-28 09:24:51.221                                     
+SHEP0020       book Appointment                   Failed         2019-10-28 09:27:14.433                                     
+SHEP0020       book Appointment                   Failed         2019-10-28 09:27:53.404                                     
+SHEP0020       book Appointment                   Failed         2019-10-28 09:28:26.754                                     
+SHEP0020       book Appointment                   Failed         2019-10-28 09:28:50.826                                     
+SHEP0020       swap Appointment                   Failed         2019-10-28 09:39:01.12                                      
+SHEP0020       book Appointment                   Failed         2019-10-28 09:40:27.792                                     
+SHEP0020       get Appointment Schedule           Success        2019-10-28 09:40:37.341                                     
+SHEP0020       swap Appointment                   Failed         2019-10-28 09:43:09.094                                     
+SHEP0020       get Appointment Schedule           Success        2019-10-28 09:43:29.932                                     
+QUEP0020       book Appointment                   Failed         2019-10-28 09:45:09.732                                     
+QUEP0020       swap Appointment                   Failed         2019-10-28 09:46:06.785                                     
+QUEP0020       swap Appointment                   Failed         2019-10-28 09:46:59.329                                     
+QUEP0020       get Appointment Schedule           Success        2019-10-28 09:47:53.639                                     
+MTLA0001       list Appointment Availability      Success        2019-10-28 09:53:49.518                                     
+MTLA0001       list Appointment Availability      Success        2019-10-28 10:50:50.349                                     
+MTLA0001       list Appointment Availability      Success        2019-11-05 20:45:00.687                                     
+QUEA0001       list Appointment Availability      Success        2019-11-05 20:45:39.846                                     
+QUEA0001       book Appointment                   Failed         2019-11-05 20:46:05.978                                     
+QUEA0001       get Appointment Schedule           Success        2019-11-05 20:46:26.529                                     
+QUEA0001       cancel Appointment                 Failed         2019-11-05 20:47:07.808                                     
+QUEA0001       add Appointment                    Failed         2019-11-05 20:48:10.022                                     
+QUEA0001       add Appointment                    Success        2019-11-05 20:49:25.129                                     
+QUEA0001       list Appointment Availability      Success        2019-11-05 20:50:57.655                                     
+SHEA0001       list Appointment Availability      Success        2019-11-05 20:51:57.006                                     
+MTLA0001       swap Appointment                   Success        2019-11-05 20:57:29.398                                     
+MTLA0001       swap Appointment                   Failed         2019-11-05 20:58:55.252                                     
+MTLA0001       list Appointment Availability      Failed         2019-11-12 15:30:50.166                                     
+MTLA0001       list Appointment Availability      Failed         2019-11-12 18:40:18.214                                     
+MTLA0001       get Appointment Schedule           Success        2019-11-12 18:40:50.966                                     
+QUEA0001       list Appointment Availability      Failed         2019-11-12 21:06:06.351                                     
+MTLA0001       list Appointment Availability      Failed         2019-11-14 15:40:01.764                                     
+MTLA0001       get Appointment Schedule           Success        2019-11-14 15:49:25.741                                     
+MTLA0001       list Appointment Availability      Failed         2019-11-14 17:29:14.557                                     
+MTLA0001       list Appointment Availability      Success        2019-11-14 17:36:46.988                                     
+MTLA0001       list Appointment Availability      Success        2019-11-14 17:37:06.303                                     
+MTLA0001       list Appointment Availability      Success        2019-11-14 17:37:16.31                                      
+MTLP0001       get Appointment Schedule           Success        2019-11-14 17:44:32.254                                     
+MTLA0001       get Appointment Schedule           Success        2019-11-14 17:47:35.973                                     
+MTLA0001       get Appointment Schedule           Success        2019-11-14 17:48:00.009                                     
+MTLA0001       list Appointment Availability      Success        2019-11-14 17:48:34.493                                     
+MTLA0001       list Appointment Availability      Success        2019-11-14 18:15:52.958                                     
+MTLA0001       get Appointment Schedule           Success        2019-11-14 18:16:16.204                                     
+MTLA0001       get Appointment Schedule           Success        2019-11-14 18:17:00.718                                     
+MTLA0001       get Appointment Schedule           Success        2019-11-14 18:17:17.83                                      
+MTLA0001       list Appointment Availability      Success        2019-11-14 19:00:39.089                                     
+MTLA0001       get Appointment Schedule           Success        2019-11-14 19:01:28.478                                     
+MTLA0001       book Appointment                   Failed         2019-11-14 19:02:11.527                                     
+MTLA0001       list Appointment Availability      Success        2019-11-14 19:08:44.295                                     
+MTLA0001       book Appointment                   Success        2019-11-14 19:09:20.415                                     
+MTLA0001       cancel Appointment                 Success        2019-11-14 19:10:20.726                                     
+MTLA0001       swap Appointment                   Success        2019-11-14 19:14:40.732                                     
+MTLA0001       remove Appointment                 Success        2019-11-14 19:16:07.244                                     
+MTLA0001       add Appointment                    Success        2019-11-14 19:16:38.993                                     
+MTLA0001       list Appointment Availability      Success        2019-11-14 19:20:18.559                                     
+MTLA0001       list Appointment Availability      Success        2019-11-14 19:20:57.474                                     
+MTLA0001       list Appointment Availability      Success        2019-11-14 21:29:53.463                                     
+MTLA0001       list Appointment Availability      Success        2019-11-14 21:46:58.487                                     
+MTLA0001       get Appointment Schedule           Success        2019-11-14 22:03:14.498                                     
+MTLA0001       get Appointment Schedule           Success        2019-11-14 22:08:47.461                                     
+MTLA0001       add Appointment                    Success        2019-11-18 10:41:12.55                                      
+MTLA0001       list Appointment Availability      Success        2019-11-18 10:41:22.527                                     
+MTLA0001       add Appointment                    Success        2019-11-18 10:42:43.254                                     
+MTLA0001       list Appointment Availability      Success        2019-11-18 10:42:53.175                                     
+MTLA0001       list Appointment Availability      Success        2019-11-19 19:22:19.881                                     
+MTLA0001       get Appointment Schedule           Success        2019-11-19 22:01:24.925                                     
+MTLA3456       add Appointment                    Success        2019-11-21 11:40:54.366                                     
+MTLA3456       add Appointment                    Success        2019-11-21 11:41:32.472                                     
+MTLA3456       add Appointment                    Failed         2019-11-21 11:42:05.295                                     
+SHEA9000       add Appointment                    Failed         2019-11-21 11:43:02.357                                     
+SHEA9000       add Appointment                    Success        2019-11-21 11:43:39.979                                     
+QUEA9000       add Appointment                    Failed         2019-11-21 11:45:34.432                                     
+QUEA9000       add Appointment                    Success        2019-11-21 11:47:10.172                                     
+QUEA9000       add Appointment                    Success        2019-11-21 11:47:53.63                                      
+QUEA9000       list Appointment Availability      Success        2019-11-21 11:48:16.839                                     
+QUEA9000       list Appointment Availability      Success        2019-11-21 11:48:33.31                                      
+QUEA9000       list Appointment Availability      Success        2019-11-21 11:48:42.812                                     
+SHEP1234       book Appointment                   Success        2019-11-21 11:52:04.724                                     
+SHEP1234       book Appointment                   Success        2019-11-21 11:53:55.792                                     
+SHEP1234       book Appointment                   Success        2019-11-21 11:55:21.958                                     
+SHEP1234       book Appointment                   Success        2019-11-21 11:55:55.514                                     
+SHEP1234       swap Appointment                   Failed         2019-11-21 11:57:51.033                                     
+MTLA3456       remove Appointment                 Success        2019-11-21 12:00:58.03                                      
+MTLA3456       get Appointment Schedule           Success        2019-11-21 12:01:42.29                                      
+SHEA6785       book Appointment                   Success        2019-11-21 12:03:53.066                                     
+SHEA6785       cancel Appointment                 Success        2019-11-21 12:04:57.185                                     
+SHEA6785       swap Appointment                   Failed         2019-11-21 12:08:08.094                                     
+SHEA6785       swap Appointment                   Failed         2019-11-21 12:16:34.391                                     
+SHEA6785       list Appointment Availability      Success        2019-11-21 12:16:58.536                                     
+SHEA6785       list Appointment Availability      Success        2019-11-21 12:17:17.234                                     
